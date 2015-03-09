@@ -1,0 +1,42 @@
+# Site settings
+title: The Communicate Copywriter
+email: geocmal@yahoo.com
+url: https://communicatecopywriter.github.io
+description: "George Malinoski, an experienced freelance writer."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: E0C38C
+  secondary: 680000
+  secondary-dark: 990D17
+
+# Footer settings
+footer:
+  copyright: George Malinoski
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/pub/george-malinoski/34/68/3a7
+  - title: facebook
+    url: https://www.facebook.com/george.malinoski
+  - title: github
+    url: https://github.com/communicatecopywriter
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 447 Summer Street
+  - line: Rotterdam, NY 12306
+
+# Credits content
+credits: '<a href="http://startbootstrap.com">Bootstrap Theme</a> / <a href="https://commons.wikimedia.org/wiki/File:Stipula_fountain_pen.jpg">Pen Image</a> / <a href="https://commons.wikimedia.org/wiki/File:QWERTY_keyboard.jpg">Keyboard Image</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
